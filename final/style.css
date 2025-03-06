@@ -1,0 +1,38 @@
+body {
+    background-color: white;
+
+}
+
+#right-text {
+    text-align:right;
+}
+
+.myclass {
+    color:black;
+    text-align:left;
+    font-size: 15px;
+}
+
+.container{
+    width: 1000px;
+    margin: 0 auto;
+    border: 1px solid rgb(255, 255, 255);
+    padding: rgb(255, 255, 255);
+    background-color:rgb(255, 255, 255);
+}
+
+.nav {
+    list-style:none;
+    text-align:center;
+}
+
+.nav li {
+    display:inline;
+    margin-right: 20px;
+}
+
+.copy {
+    font-size:25px;
+    color: bisque;
+    background-color: red;
+}
